@@ -1,3 +1,7 @@
+header {
+    font-size: 24px;
+}
+
 body {
     background: linear-gradient(360deg, black,rgb(40, 100, 80 ) ) ;
 }
@@ -79,6 +83,34 @@ h6 {
 
 .imagem__consoles-2 {
     height: 500px;
+}
+
+.lixo {
+    margin-top: 10px;
+    font-size: 24px;
+}
+
+.ambiente {
+    margin-top: 10px;
+    font-size: 18px;
+}
+
+.onu {
+    width: 164px;
+    height: 200px;
+    margin: 0px;
+}
+
+.infografico {
+    margin-top: 10px;
+    height: 700px;
+    width: 500px;
+}
+
+.terra {
+    margin-top: 10px;
+    width: 600px;
+    margin-left: 200px;
 }
 
 .origem {
